@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔐 AuthVault - Full Stack Authentication System
 
 A full-stack MERN authentication app with JWT-based login system and protected routes.
