@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 AuthVault - Full Stack Authentication System
 
 A full-stack MERN authentication app with JWT-based login system and protected routes.
@@ -34,3 +35,57 @@ npm run dev
 
 ## 👨‍💻 Author
 Aryan Dhiman
+=======
+# AuthVault Full Stack Project
+
+## Features
+- User Signup/Login (JWT Authentication)
+- Create, View, Delete Notes
+- MongoDB Database Integration
+- Full Stack (React + Node + Express)
+
+---
+
+## Setup Instructions
+
+### 1. Clone / Extract Project
+
+### 2. Backend Setup
+cd server
+npm install
+
+Open server.js and replace:
+mongoose.connect("YOUR_MONGO_URI")
+
+with your MongoDB Atlas URI.
+
+Run backend:
+node server.js
+
+---
+
+### 3. Frontend Setup
+cd client
+npm install
+npm run dev
+
+---
+
+## Deployment
+
+Frontend:
+- Vercel / Netlify
+
+Backend:
+- Render / Railway
+
+Database:
+- MongoDB Atlas
+
+---
+
+## Submission Checklist
+- GitHub Repo Uploaded
+- Live Link Added
+- Screenshots Added
+>>>>>>> bd49c09 (Initial commit - AuthVault project)
