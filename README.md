@@ -82,9 +82,3 @@ Database:
 - MongoDB Atlas
 
 ---
-
-## Submission Checklist
-- GitHub Repo Uploaded
-- Live Link Added
-- Screenshots Added
->>>>>>> bd49c09 (Initial commit - AuthVault project)
